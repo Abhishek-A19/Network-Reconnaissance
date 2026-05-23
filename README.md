@@ -6,7 +6,6 @@ Performed network scanning and service enumeration using the Metasploit Framewor
 - Domain	Ethical Hacking / Network Scanning
 - Tool Used	Metasploit Framework
 - Prepared By	A Abhishek
-- Date	25/04/26
 
 ### Overview
 This project was performed as a personal cybersecurity practice lab to understand how network scanning is performed using the Metasploit Framework. The main objective of this lab was to identify live hosts, open ports, and running services in a target network environment using Metasploit scanning modules. This project helped in understanding how ethical hackers gather network-related information during the reconnaissance and scanning phases of penetration testing.
